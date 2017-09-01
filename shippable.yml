@@ -28,5 +28,3 @@ build:
     
   ci:
     - go version
-
-
